@@ -7,7 +7,7 @@ import java.io.*;
 public class serializingExample {
     
 
-    public void main(String[] args) throws Exception{
+    public static void main(String[] args) throws Exception{
 
     Student newStudent = new Student(123,"Trong");
     ObjectOutputStream out = new ObjectOutputStream(

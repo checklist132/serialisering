@@ -1,4 +1,4 @@
-package serialisering;
+package serialisering.Example;
 import java.io.*;
 
 import serialisering.Student;
