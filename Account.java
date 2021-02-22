@@ -2,7 +2,7 @@ package serialisering;
 
 import java.io.Serializable;
 
-import jdk.internal.agent.resources.agent;
+//import jdk.internal.agent.resources.agent;
 
 public class Account implements Serializable {
 

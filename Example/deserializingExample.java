@@ -1,7 +1,7 @@
 package serialisering.Example;
 import java.io.*;
 
-import serialisering.Student;
+//import serialisering.Student;
 
 public class deserializingExample {
     public static void main(String[] args) throws Exception {
