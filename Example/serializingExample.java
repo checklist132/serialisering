@@ -1,4 +1,4 @@
-package serialisering.Example;
+package Projekt.Lecture06.serialisering.Example;
 
 import java.io.*;
 

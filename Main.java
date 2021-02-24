@@ -1,4 +1,4 @@
-package serialisering;
+package Projekt.Lecture06.serialisering;
 
 import java.io.*;
 
